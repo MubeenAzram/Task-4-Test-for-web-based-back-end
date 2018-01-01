@@ -1,0 +1,10 @@
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\bin\Debug\CommonObjects.dll.config
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\bin\Debug\CommonObjects.dll
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\bin\Debug\CommonObjects.pdb
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\bin\Debug\EntityFramework.dll
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\bin\Debug\EntityFramework.xml
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\obj\Debug\CommonObjects.dll
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\obj\Debug\CommonObjects.pdb
+c:\users\muhammadmubeen\documents\visual studio 2015\Projects\BeerCollectionAPI\CommonObjects\obj\Debug\CommonObjects.csprojResolveAssemblyReference.cache
